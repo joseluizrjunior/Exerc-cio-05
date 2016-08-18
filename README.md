@@ -1,10 +1,10 @@
 # Exerc-cio-05
 Criaçãodenovobrancheexecuçãode mergecom resoluçãodeconflito
 
-Teste 01
+Teste I
 
-Teste 02 
+Teste II 
 
 teste III
 
-Teste 04
+Teste IV
